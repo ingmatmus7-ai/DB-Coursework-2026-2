@@ -439,7 +439,6 @@ Código Fuente: Frontend [Repositorio](https://github.com/scynara09-hue/Scynara-
 Código Fuente: Backend [Repositorio](https://github.com/scynara09-hue/Scynara-Backend)
 Demo en Vivo: [Página Web](https://scynara-frontend-nuv4w7vem-niv-s-projects2.vercel.app/)
   
-
 ## Proyecto 10: Notaría 105 (Sistema Integral de Gestión Notarial)
 Plataforma web segura diseñada específicamente para la **Notaría Pública 105** en la Ciudad de México. Este proyecto nace para resolver la necesidad de modernizar el flujo de trabajo notarial, eliminando el papeleo físico, previniendo la pérdida de documentos y centralizando la información en un entorno digital seguro bajo principios de auditoría estricta.
  
@@ -462,10 +461,10 @@ El sistema funciona como un gestor relacional de expedientes que automatiza el c
  
 🖼️ Ver capturas de pantalla
 
-<img loading="lazy" width="1600" height="755" alt="index" src="https://github.com/user-attachments/assets/9932b8ba-6d88-487d-8d2b-4411601c175e" />
-<img loading="lazy" width="1600" height="757" alt="regisperso" src="https://github.com/user-attachments/assets/5dbdecb2-a3df-466c-8214-0cc138a0ec31" />
-<img loading="lazy" width="1600" height="754" alt="abogado" src="https://github.com/user-attachments/assets/42c0483c-c947-4d44-b400-08c2e912a4ad" />
-<img loading="lazy" width="1600" height="746" alt="regisclient" src="https://github.com/user-attachments/assets/446e047b-f2e5-4d17-b529-74141bc8edc4" />
+<img width="1600" height="755" alt="index" src="https://github.com/user-attachments/assets/9932b8ba-6d88-487d-8d2b-4411601c175e" />
+<img width="1600" height="757" alt="regisperso" src="https://github.com/user-attachments/assets/5dbdecb2-a3df-466c-8214-0cc138a0ec31" />
+<img width="1600" height="754" alt="abogado" src="https://github.com/user-attachments/assets/42c0483c-c947-4d44-b400-08c2e912a4ad" />
+<img width="1600" height="746" alt="regisclient" src="https://github.com/user-attachments/assets/446e047b-f2e5-4d17-b529-74141bc8edc4" />
 
  
 🔑 Credenciales de Acceso (Para Evaluación)
