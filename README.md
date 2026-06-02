@@ -536,24 +536,24 @@ El sistema funciona como un gestor relacional de expedientes que automatiza el c
 * **Auditoría Notarial y Borrado Lógico:** Cumplimiento de la secuencialidad de folios exigida por la ley. Las escrituras canceladas o con errores se ocultan del panel operativo principal mediante un `UPDATE` de estado (borrado lógico), preservando el registro en un panel de archivo histórico para futuras auditorías.
 * **Portal de Transparencia Ciudadana:** Interfaz de acceso restringido para clientes externos. Mediante validación de CURP y correo, el usuario visualiza el avance de sus escrituras (JOINs en tiempo real) sin poder alterar la base de datos.
 * **Generación de Documento Oficial:** Sistema de renderizado dinámico mediante Jinja2 y CSS para previsualizar el instrumento notarial final (formato carta) con la firma digital incrustada, listo para impresión o exportación.
- 
-🖼️ Ver capturas de pantalla
+  
+<details>
+<summary>🖼️ Ver capturas de pantalla</summary>
 
-<img width="1600" height="755" alt="index" src="https://github.com/user-attachments/assets/9932b8ba-6d88-487d-8d2b-4411601c175e" />
-<img width="1600" height="757" alt="regisperso" src="https://github.com/user-attachments/assets/5dbdecb2-a3df-466c-8214-0cc138a0ec31" />
-<img width="1600" height="754" alt="abogado" src="https://github.com/user-attachments/assets/42c0483c-c947-4d44-b400-08c2e912a4ad" />
-<img width="1600" height="746" alt="regisclient" src="https://github.com/user-attachments/assets/446e047b-f2e5-4d17-b529-74141bc8edc4" />
-
- 
+<img width="1600" height="755" alt="index" src="https://github.com/user-attachments/assets/9932b8ba-6d88-487d-8d2b-4411601c175e" loading="lazy" /> 
+<img width="1600" height="757" alt="regisperso" src="https://github.com/user-attachments/assets/5dbdecb2-a3df-466c-8214-0cc138a0ec31" loading="lazy" /> 
+<img width="1600" height="754" alt="abogado" src="https://github.com/user-attachments/assets/42c0483c-c947-4d44-b400-08c2e912a4ad" loading="lazy" /> 
+<img width="1600" height="746" alt="regisclient" src="https://github.com/user-attachments/assets/446e047b-f2e5-4d17-b529-74141bc8edc4" loading="lazy" />
+</details>
 🔑 Credenciales de Acceso (Para Evaluación)
 Para ingresar al sistema con privilegios totales de administrador y evaluar el flujo completo (dashboard, creación de escrituras y alta de personal), utiliza la siguiente cuenta:
 * **Rol:** Notario Titular
-* **Usuario:** Jesus_Av@notaria105.com
-* **Contraseña:** 1234
+* **Usuario:** roberto.notario@notaria105.com
+* **Contraseña:** c123
  
 🔗 Enlaces
 * **Código Fuente:** [Repositorio Notaría 105](https://github.com/s06008525-max/notaria-105)
-* **Demo en Vivo:** [notaria105](http://roberto.notario@notaria105.com)
+* **Demo en Vivo:** [notaria105](https://notaria-105.onrender.com/)
 
 # Proyecto 11: Refaccionaria Leo 🚗
 
