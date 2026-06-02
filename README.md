@@ -458,17 +458,21 @@ El sistema funciona como un gestor relacional de expedientes que automatiza el c
 * **Auditoría Notarial y Borrado Lógico:** Cumplimiento de la secuencialidad de folios exigida por la ley. Las escrituras canceladas o con errores se ocultan del panel operativo principal mediante un `UPDATE` de estado (borrado lógico), preservando el registro en un panel de archivo histórico para futuras auditorías.
 * **Portal de Transparencia Ciudadana:** Interfaz de acceso restringido para clientes externos. Mediante validación de CURP y correo, el usuario visualiza el avance de sus escrituras (JOINs en tiempo real) sin poder alterar la base de datos.
 * **Generación de Documento Oficial:** Sistema de renderizado dinámico mediante Jinja2 y CSS para previsualizar el instrumento notarial final (formato carta) con la firma digital incrustada, listo para impresión o exportación.
+  
 <details>
 <summary>🖼️ Ver capturas de pantalla</summary>
-| | |
-|---|---|
-| <img loading="lazy" src="https://github.com" alt="index" width="400"/> | 
-<img loading="lazy" src="https://github.com" alt="regisperso" width="400"/> |
-| <img loading="lazy" src="https://github.com" alt="abogado" width="400"/> |
-<img loading="lazy" src="https://github.com" alt="regisclient" width="400"/> |
+
+<img loading="lazy" src="https://github.com" alt="index" width="400"/>  
+<img loading="lazy" src="https://github.com" alt="regisperso" width="400"/> 
+<img loading="lazy" src="https://github.com" alt="abogado" width="400"/> 
+<img loading="lazy" src="https://github.com" alt="regisclient" width="400"/> 
 </details>
 🔑 Credenciales de Acceso (Para Evaluación)
 Para ingresar al sistema con privilegios totales de administrador y evaluar el flujo completo (dashboard, creación de escrituras y alta de personal), utiliza la siguiente cuenta:
 * **Rol:** Notario Titular
 * **Usuario:** roberto.notario@notaria105.com
 * **Contraseña:** c123
+ 
+🔗 Enlaces
+* **Código Fuente:** [Repositorio Notaría 105](https://github.com/s06008525-max/notaria-105)
+* **Demo en Vivo:** [notaria105](https://notaria-105.onrender.com/)
