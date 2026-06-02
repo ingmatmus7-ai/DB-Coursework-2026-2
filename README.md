@@ -438,7 +438,7 @@ Sistema web full-stack para la gestión de una tienda o cadena de sucursales, co
 Código Fuente: Frontend [Repositorio](https://github.com/scynara09-hue/Scynara-Frontend)
 Código Fuente: Backend [Repositorio](https://github.com/scynara09-hue/Scynara-Backend)
 Demo en Vivo: [Página Web](https://scynara-frontend-nuv4w7vem-niv-s-projects2.vercel.app/)
-  
+
 ## Proyecto 10: Notaría 105 (Sistema Integral de Gestión Notarial)
 Plataforma web segura diseñada específicamente para la **Notaría Pública 105** en la Ciudad de México. Este proyecto nace para resolver la necesidad de modernizar el flujo de trabajo notarial, eliminando el papeleo físico, previniendo la pérdida de documentos y centralizando la información en un entorno digital seguro bajo principios de auditoría estricta.
  
@@ -460,7 +460,6 @@ El sistema funciona como un gestor relacional de expedientes que automatiza el c
 * **Generación de Documento Oficial:** Sistema de renderizado dinámico mediante Jinja2 y CSS para previsualizar el instrumento notarial final (formato carta) con la firma digital incrustada, listo para impresión o exportación.
 <details>
 <summary>🖼️ Ver capturas de pantalla</summary>
-
 | | |
 |---|---|
 | <img loading="lazy" src="https://github.com" alt="index" width="400"/> | 
@@ -468,14 +467,8 @@ El sistema funciona como un gestor relacional de expedientes que automatiza el c
 | <img loading="lazy" src="https://github.com" alt="abogado" width="400"/> |
 <img loading="lazy" src="https://github.com" alt="regisclient" width="400"/> |
 </details>
- 
 🔑 Credenciales de Acceso (Para Evaluación)
 Para ingresar al sistema con privilegios totales de administrador y evaluar el flujo completo (dashboard, creación de escrituras y alta de personal), utiliza la siguiente cuenta:
 * **Rol:** Notario Titular
 * **Usuario:** roberto.notario@notaria105.com
 * **Contraseña:** c123
- 
-🔗 Enlaces
-* **Código Fuente:** [Repositorio Notaría 105](https://github.com/s06008525-max/notaria-105)
-* **Demo en Vivo:** [notaria105](https://notaria-105.onrender.com/)
-  
