@@ -78,7 +78,7 @@ Sistema web integral para la gestión de una cafetería artesanal ubicada en Ref
 | | |
 |---|---|
 | <img loading="lazy" src="https://github.com/PerlaSantos/DestinyCafe/blob/960a0a8029eea604e10949a234bdaa3712193b60/Principal.png" alt="Vista principal de DestinyCafe - Página de inicio" width="800"/> | |
-| <img loading="lazy" src="https://github.com/PerlaSantos/DestinyCafe/blob/960a0a8029eea604e10949a234bdaa3712193b60/Areas.png" alt="Sección de áreas: Barra, Cocina y Panadería" width="400"/> | <img loading="lazy" src="https://github.com/PerlaSantos/DestinyCafe/blob/960a0a8029eea604e10949a234bdaa3712193b60/Inventario.png" alt="Formulario de registro de insumos" width="400"/> |
+| <img loading="lazy" src="https://github.com/PerlaSantos/DestinyCafe/blob/960a0a8029eea604e10949a234bdaa3712193b60/Areas.png" alt="Sección de áreas: Barra, Cocina y Panadería" width="800"/> | <img loading="lazy" src="https://github.com/PerlaSantos/DestinyCafe/blob/960a0a8029eea604e10949a234bdaa3712193b60/Inventario.png" alt="Formulario de registro de insumos" width="800"/> |
 | <img loading="lazy" src="https://github.com/PerlaSantos/DestinyCafe/blob/960a0a8029eea604e10949a234bdaa3712193b60/Ventas.png" alt="Formulario de registro de ventas." width="800"/> | |
 </details>
 
