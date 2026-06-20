@@ -1870,25 +1870,25 @@ Sistema web de registro y control de recepción de productos para la empresa **C
 
 **Login**
 
-<img src="screenshots/login.png" alt="Pantalla de inicio de sesión" loading="lazy" width="800">
+<img src="https://github.com/aleaguiballos-cell/ProyectoBD2/blob/main/screenshot/login.png  " alt="Pantalla de inicio de sesión" loading="lazy" width="800">
 
 ---
 
 **Registro de usuario**
 
-<img src="screenshots/registro.png" alt="Formulario de registro de nuevos usuarios" loading="lazy" width="800">
+<img src="https://github.com/aleaguiballos-cell/ProyectoBD2/blob/main/screenshot/Formulario.png" alt="Formulario de registro de nuevos usuarios" loading="lazy" width="800">
 
 ---
 
 **Formulario de recepción**
 
-<img src="screenshots/formulario.png" alt="Formulario de recepción de productos" loading="lazy" width="800">
+<img src="https://github.com/aleaguiballos-cell/ProyectoBD2/blob/main/screenshot/registro.png" alt="Formulario de recepción de productos" loading="lazy" width="800">
 
 ---
 
 **Panel de administración**
 
-<img src="screenshots/administrador.png" alt="Panel de administración" loading="lazy" width="800">
+<img src="https://github.com/aleaguiballos-cell/ProyectoBD2/blob/main/screenshot/aministrador" alt="Panel de administración" loading="lazy" width="800">
 
 ---
 
