@@ -1958,7 +1958,7 @@ Sistema web de registro y control de recepción de productos para la empresa **C
 
 **Panel de administración**
 
-<img src="https://github.com/aleaguiballos-cell/ProyectoBD2/blob/main/screenshot/aministrador" alt="Panel de administración" loading="lazy" width="800">
+<img src="https://github.com/aleaguiballos-cell/ProyectoBD2/blob/main/screenshot/Administrador.png" alt="Panel de administración" loading="lazy" width="800">
 
 ---
 
