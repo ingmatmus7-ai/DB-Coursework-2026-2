@@ -1109,15 +1109,14 @@ El sistema funciona como un gestor relacional de expedientes que automatiza el c
 <img width="1600" height="754" alt="abogado" src="https://github.com/user-attachments/assets/42c0483c-c947-4d44-b400-08c2e912a4ad" loading="lazy" /> 
 <img width="1600" height="746" alt="regisclient" src="https://github.com/user-attachments/assets/446e047b-f2e5-4d17-b529-74141bc8edc4" loading="lazy" />
 </details>
-🔑 Credenciales de Acceso (Para Evaluación)
-Para ingresar al sistema con privilegios totales de administrador y evaluar el flujo completo (dashboard, creación de escrituras y alta de personal), utiliza la siguiente cuenta:
-* **Rol:** Notario Titular
-* **Usuario:** roberto.notario@notaria105.com
-* **Contraseña:** c123
- 
-🔗 Enlaces
-* **Código Fuente:** [Repositorio Notaría 105](https://github.com/s06008525-max/notaria-105)
-* **Demo en Vivo:** [notaria105](https://notaria-105.onrender.com/)
+### 🔑 Accesos (Evaluación)
+* **Notario:** `notario@notaria105.com` / `notario123`
+* **Abogado:** `abogado@notaria105.com` / `abogado123`
+* **Cliente:** `cliente@example.com` / CURP: `PELJ850303HDFRPN03`
+
+### 🔗 Enlaces del Sistema
+* **Principal:** [Código Fuente](https://github.com/s06008525-max/notaria-105) | [Despliegue](https://notaria-105.onrender.com/)
+* **Estático:** [Código Fuente](https://github.com/ingmatmus7-ai/notaria105_estatica) | [Despliegue](https://ingmatmus7-ai.github.io/notaria105_estatica/)
 
 # Proyecto 11: Refaccionaria Leo 🚗
 
