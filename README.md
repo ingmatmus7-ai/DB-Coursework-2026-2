@@ -467,10 +467,9 @@ El sistema funciona como un gestor relacional de expedientes que automatiza el c
 </details>
 ### 🔑 Credenciales de Acceso (Para Evaluación)
 | Rol | Correo Electrónico | Contraseña / Acceso |
-| :--- | :--- | :--- |
-| **Notario** (Admin) | `notario@notaria105.com` | `notario123` |
-| **Abogado** (Staff) | `abogado@notaria105.com` | `abogado123` |
-| **Cliente** (Ciudadano) | `cliente@example.com` | **CURP:** `PELJ850303HDFRPN03` |
+**Notario** (Admin) | `notario@notaria105.com` | `notario123` |
+**Abogado** (Staff) | `abogado@notaria105.com` | `abogado123` |
+**Cliente** (Ciudadano) | `cliente@example.com` | **CURP:** `PELJ850303HDFRPN03` |
 ---
 
 🔗 Enlaces
