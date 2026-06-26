@@ -468,11 +468,11 @@ El sistema funciona como un gestor relacional de expedientes que automatiza el c
 <img width="1600" height="746" alt="regisclient" src="https://github.com/user-attachments/assets/446e047b-f2e5-4d17-b529-74141bc8edc4" loading="lazy" />
 </details>
 🔑 Credenciales de Acceso (Para Evaluación)
-Para ingresar al sistema con privilegios totales de administrador y evaluar el flujo completo (dashboard, creación de escrituras y alta de personal), utiliza la siguiente cuenta:
-* **Rol:** Notario Titular
-* **Usuario:** roberto.notario@notaria105.com
-* **Contraseña:** c123
+| Rol | Correo Electrónico | Contraseña / Acceso |
+| **Notario** (Admin) | `notario@notaria105.com` | `notario123` |
+| **Abogado** (Staff) | `abogado@notaria105.com` | `abogado123` |
+| **Cliente** (Ciudadano) | `cliente@example.com` | **CURP:** `PELJ850303HDFRPN03` |
  
 🔗 Enlaces
-* **Código Fuente:** [Repositorio Notaría 105](https://github.com/s06008525-max/notaria-105)
-* **Demo en Vivo:** [notaria105](https://notaria-105.onrender.com/)
+* **Código Fuente Principal:** [Repositorio Notaría 105](https://github.com/s06008525-max/notaria-105) **Código Fuente Estático:** [Repositorio Notaría 105](https://github.com/ingmatmus7-ai/notaria105_estatica)
+* **Principal:** [notaria105](https://notaria-105.onrender.com/) **Estática:** [notaria105](https://ingmatmus7-ai.github.io/notaria105_estatica/)
