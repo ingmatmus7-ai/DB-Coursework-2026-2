@@ -458,21 +458,20 @@ El sistema funciona como un gestor relacional de expedientes que automatiza el c
 * **Auditoría Notarial y Borrado Lógico:** Cumplimiento de la secuencialidad de folios exigida por la ley. Las escrituras canceladas o con errores se ocultan del panel operativo principal mediante un `UPDATE` de estado (borrado lógico), preservando el registro en un panel de archivo histórico para futuras auditorías.
 * **Portal de Transparencia Ciudadana:** Interfaz de acceso restringido para clientes externos. Mediante validación de CURP y correo, el usuario visualiza el avance de sus escrituras (JOINs en tiempo real) sin poder alterar la base de datos.
 * **Generación de Documento Oficial:** Sistema de renderizado dinámico mediante Jinja2 y CSS para previsualizar el instrumento notarial final (formato carta) con la firma digital incrustada, listo para impresión o exportación.
-  
 <details>
 <summary>🖼️ Ver capturas de pantalla</summary>
-
 <img width="1600" height="755" alt="index" src="https://github.com/user-attachments/assets/9932b8ba-6d88-487d-8d2b-4411601c175e" loading="lazy" /> 
 <img width="1600" height="757" alt="regisperso" src="https://github.com/user-attachments/assets/5dbdecb2-a3df-466c-8214-0cc138a0ec31" loading="lazy" /> 
 <img width="1600" height="754" alt="abogado" src="https://github.com/user-attachments/assets/42c0483c-c947-4d44-b400-08c2e912a4ad" loading="lazy" /> 
 <img width="1600" height="746" alt="regisclient" src="https://github.com/user-attachments/assets/446e047b-f2e5-4d17-b529-74141bc8edc4" loading="lazy" />
 </details>
-🔑 Credenciales de Acceso (Para Evaluación)
+### 🔑 Credenciales de Acceso (Para Evaluación)
 | Rol | Correo Electrónico | Contraseña / Acceso |
+| :--- | :--- | :--- |
 | **Notario** (Admin) | `notario@notaria105.com` | `notario123` |
 | **Abogado** (Staff) | `abogado@notaria105.com` | `abogado123` |
 | **Cliente** (Ciudadano) | `cliente@example.com` | **CURP:** `PELJ850303HDFRPN03` |
- 
+---
 🔗 Enlaces
 * **Código Fuente Principal:** [Repositorio Notaría 105](https://github.com/s06008525-max/notaria-105) **Código Fuente Estático:** [Repositorio Notaría 105](https://github.com/ingmatmus7-ai/notaria105_estatica)
 * **Principal:** [notaria105](https://notaria-105.onrender.com/) **Estática:** [notaria105](https://ingmatmus7-ai.github.io/notaria105_estatica/)
