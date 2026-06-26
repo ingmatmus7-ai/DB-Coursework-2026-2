@@ -472,6 +472,7 @@ El sistema funciona como un gestor relacional de expedientes que automatiza el c
 | **Abogado** (Staff) | `abogado@notaria105.com` | `abogado123` |
 | **Cliente** (Ciudadano) | `cliente@example.com` | **CURP:** `PELJ850303HDFRPN03` |
 ---
+
 🔗 Enlaces
 * **Código Fuente Principal:** [Repositorio Notaría 105](https://github.com/s06008525-max/notaria-105) **Código Fuente Estático:** [Repositorio Notaría 105](https://github.com/ingmatmus7-ai/notaria105_estatica)
 * **Principal:** [notaria105](https://notaria-105.onrender.com/) **Estática:** [notaria105](https://ingmatmus7-ai.github.io/notaria105_estatica/)
