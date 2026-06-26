@@ -466,10 +466,10 @@ El sistema funciona como un gestor relacional de expedientes que automatiza el c
 <img width="1600" height="746" alt="regisclient" src="https://github.com/user-attachments/assets/446e047b-f2e5-4d17-b529-74141bc8edc4" loading="lazy" />
 </details>
 🔑 Accesos
+
 * **Notario:** usuario: notario@notaria105.com  contraseña: notario123
 * **Abogado:** usuario: abogado@notaria105.com  contraseña: abogado123
 * **Cliente:** usuario: cliente@example.com  curp: PELJ850303HDFRPN03
-
 ### 🔗 Enlaces del Sistema
 * **Principal:** [Código Fuente](https://github.com/s06008525-max/notaria-105) | [Despliegue](https://notaria-105.onrender.com/)
 * **Estático:** [Código Fuente](https://github.com/ingmatmus7-ai/notaria105_estatica) | [Despliegue](https://ingmatmus7-ai.github.io/notaria105_estatica/)
